@@ -3,40 +3,65 @@
     "id": 1,
     "cover": "https://i.ibb.co/j9tBtsT/technology-communication-icons-symbols-concept.jpg",
     "title": "The Enigmatic Quest",
+    "author": "kalu Baloch",
     "author_img": "https://i.ibb.co/Bck3ZhS/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
     "posted_date": "2024-03-13",
-    "reading_time": 25
+    "reading_time": 25,
+    "hashtags": [
+      "development",
+      "resources"
+    ]
   },
   {
     "id": 2,
     "cover": "https://i.ibb.co/j9tBtsT/technology-communication-icons-symbols-concept.jpg",
     "title": "Whispers in the Mist",
+    "author": "lungi Baloch",
     "author_img": "https://i.ibb.co/Bck3ZhS/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
     "posted_date": "2024-03-14",
-    "reading_time":20 
+    "reading_time":20,
+    "hashtags": [
+      "development",
+      "resources"
+    ]
   },
   {
     "id": 3,
     "cover": "https://i.ibb.co/j9tBtsT/technology-communication-icons-symbols-concept.jpg",
     "title": "Echoes of Eternity",
+    "author": "Anmol Baloch",
     "author_img": "https://i.ibb.co/Bck3ZhS/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
     "posted_date": "2024-03-15",
-    "reading_time": 30 
+    "reading_time": 30,
+    "hashtags": [
+      "development",
+      "resources"
+    ]
   },
   {
     "id": 4,
     "cover": "https://i.ibb.co/j9tBtsT/technology-communication-icons-symbols-concept.jpg",
     "title": "Sands of Destiny",
+    "author": "Mansur Baloch",
     "author_img": "https://i.ibb.co/Bck3ZhS/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
     "posted_date": "2024-03-16",
-    "reading_time": 18 
+    "reading_time": 18,
+    "hashtags": [
+      "development",
+      "resources"
+    ] 
   },
   {
     "id": 5,
     "cover": "https://i.ibb.co/j9tBtsT/technology-communication-icons-symbols-concept.jpg",
     "title": "Lost Constellations",
+    "author": "kanglu Baloch",
     "author_img": "https://i.ibb.co/Bck3ZhS/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction.jpg",
     "posted_date": "2024-03-17",
-    "reading_time": 22 
+    "reading_time": 22,
+    "hashtags": [
+      "development",
+      "resources"
+    ] 
   }
 ]
